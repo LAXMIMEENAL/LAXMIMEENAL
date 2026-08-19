@@ -14,7 +14,7 @@ AI-powered applications.
 ### 🛡️ FraudGuard-ML
 Real-time AI-powered fraud detection platform using XGBoost.
 
-**Tech:** Python · XGBoost · Scikit-learn · Flask · Streamlit
+**Tech:** Python · Scikit-learn · Flask · Streamlit
 
 ### 🌱 AgroVision
 GeoAI-powered agricultural intelligence platform for crop and
@@ -29,19 +29,17 @@ Weather and air-quality monitoring application.
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, Java, C/C++
+**Languages:** Python, SQL, Java
 
-**AI/ML:** Machine Learning, NLP, Scikit-learn, XGBoost
+**AI/ML:** Machine Learning, NLP, Scikit-learn
 
 **Data:** Pandas, NumPy, Matplotlib, Power BI, Tableau
-
-**Development:** Flask, Django, Streamlit, React, Node.js
 
 **Tools:** Git, GitHub, Jupyter, VS Code, Google Colab
 
 ## 📜 Certifications
 
-- NPTEL Certifications
+- NPTEL (SWAYAM) – Affective Computing, Internet of Things, Learning Analytics Tools 
 - HackerRank Python
 - HackerRank SQL
 - NASSCOM FutureSkills AI/ML
@@ -49,5 +47,5 @@ Weather and air-quality monitoring application.
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/laxmimeenal-thirunavukkarasu-13762a307/)
 [GitHub](https://github.com/LAXMIMEENAL)
