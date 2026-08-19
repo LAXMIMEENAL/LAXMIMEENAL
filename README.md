@@ -16,16 +16,22 @@ Real-time AI-powered fraud detection platform using XGBoost.
 
 **Tech:** Python · Scikit-learn · Flask · Streamlit
 
+[View Project](https://github.com/LAXMIMEENAL/FraudGuard-ML)
+
 ### 🌱 AgroVision
 GeoAI-powered agricultural intelligence platform for crop and
 environmental monitoring.
 
 **Tech:** Python · Machine Learning · NDVI · Weather APIs · Streamlit
 
+[View Project](https://github.com/LAXMIMEENAL/AgroVision)
+
 ### 🌦️ MeteoMap
 Weather and air-quality monitoring application.
 
 **Tech:** React · Node.js · APIs
+
+[View Project](https://github.com/LAXMIMEENAL/MeteoMap)
 
 ## 🛠️ Technical Skills
 
@@ -49,3 +55,5 @@ Weather and air-quality monitoring application.
 
 [LinkedIn](https://www.linkedin.com/in/laxmimeenal-thirunavukkarasu-13762a307/)
 [GitHub](https://github.com/LAXMIMEENAL)
+
+*Building practical solutions with AI, data, and software.*
