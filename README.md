@@ -56,4 +56,3 @@ Weather and air-quality monitoring application.
 [LinkedIn](https://www.linkedin.com/in/laxmimeenal-thirunavukkarasu-13762a307/)
 [GitHub](https://github.com/LAXMIMEENAL)
 
-*Building practical solutions with AI, data, and software.*
