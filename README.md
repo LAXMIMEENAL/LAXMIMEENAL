@@ -1,6 +1,6 @@
-# Hi, I'm Laxmimeenal T 👋
+# Hi, I'm Laxmimeenal Thirunavukkarasu
 
-### AI & Data Science Student | ML Engineer | Data Analyst
+### AI & Data Science Student | Data Analyst | ML Engineer | Data Scientist
 
 🎓 B.Tech Artificial Intelligence & Data Science  
 💡 Interested in AI, Machine Learning, Data Science & Software Engineering
